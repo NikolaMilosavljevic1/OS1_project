@@ -1,2 +1,2 @@
 # OS1_project
-Small, but fully functional kernel for the RISC-V architecture implemented using C/C++ and Assembly
+Complete description of the project is in the pdf file "opis_projekta.pdf"
